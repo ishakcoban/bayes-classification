@@ -1,4 +1,4 @@
-load classes.mat
+load('classes.mat')
 
 plot(C1(1,:), C1(2,:),'+')
 hold
